@@ -1,4 +1,4 @@
-<?php
+<?php /* test */
 /**
  * @package		VINAORA NIVO SLIDER
  * @subpackage	mod_vt_nivo_slider
